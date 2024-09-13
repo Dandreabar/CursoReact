@@ -1,0 +1,18 @@
+
+#General{
+    text-align: center;
+    border: 1.5px solid rgb(144, 207, 247);
+    margin: 2rem;
+}
+
+#contenedorItem{
+    text-align: center;    
+    margin: 6rem;
+}
+
+img{
+    width: 30vw;
+    margin: 1rem;   
+    border: 2px solid rgb(16, 74, 110);
+    border-radius: 7%;
+}
